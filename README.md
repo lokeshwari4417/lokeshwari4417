@@ -1,3 +1,13 @@
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/lokeshwari4417/lokeshwari4417/main/git%20banner"
+    width="100%"
+    alt="Lokeshwari's dark blue and neon teal developer banner"
+  />
+</div>
+
+<br/>
+ 
  <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F766E,100:06B6D4&height=180&section=header&text=LOKESHWARI%20T.&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
